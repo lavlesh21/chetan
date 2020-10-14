@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>City__c</fullName>
+    <externalId>false</externalId>
+    <label>City</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <controllingField>Country__c</controllingField>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>true</sorted>
+            <value>
+                <fullName>Hyderabad</fullName>
+                <default>false</default>
+                <label>Hyderabad</label>
+            </value>
+            <value>
+                <fullName>Jaipur</fullName>
+                <default>false</default>
+                <label>Jaipur</label>
+            </value>
+            <value>
+                <fullName>London</fullName>
+                <default>false</default>
+                <label>London</label>
+            </value>
+            <value>
+                <fullName>Mumbai</fullName>
+                <default>false</default>
+                <label>Mumbai</label>
+            </value>
+            <value>
+                <fullName>New york</fullName>
+                <default>false</default>
+                <label>New york</label>
+            </value>
+            <value>
+                <fullName>Noida</fullName>
+                <default>false</default>
+                <label>Noida</label>
+            </value>
+            <value>
+                <fullName>San fransico</fullName>
+                <default>false</default>
+                <label>San fransico</label>
+            </value>
+        </valueSetDefinition>
+        <valueSettings>
+            <controllingFieldValue>India</controllingFieldValue>
+            <valueName>Hyderabad</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>India</controllingFieldValue>
+            <valueName>Jaipur</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>India</controllingFieldValue>
+            <valueName>Mumbai</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>India</controllingFieldValue>
+            <valueName>Noida</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>United Kingdom</controllingFieldValue>
+            <valueName>London</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>United states</controllingFieldValue>
+            <valueName>New york</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>United states</controllingFieldValue>
+            <valueName>San fransico</valueName>
+        </valueSettings>
+    </valueSet>
+</CustomField>

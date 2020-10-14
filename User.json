@@ -1,0 +1,242 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef1"
+            },
+            "Name": "Automated Process"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef2"
+            },
+            "Name": "System"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef3"
+            },
+            "Name": "Chat Setup Flow Site Site Guest User"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef4"
+            },
+            "Name": "Guest Admin"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef5"
+            },
+            "Name": "Maria Jones"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef6"
+            },
+            "Name": "Phil Katz"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef7"
+            },
+            "Name": "Megan Smith"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef8"
+            },
+            "Name": "Craig Kingman"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef9"
+            },
+            "Name": "Tom Zales"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef10"
+            },
+            "Name": "Melissa Lee"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef11"
+            },
+            "Name": "Andy Macrola"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef12"
+            },
+            "Name": "Amy Lojack"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef13"
+            },
+            "Name": "Frank Linstrom"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef14"
+            },
+            "Name": "Andrew Goldberg"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef15"
+            },
+            "Name": "Harry Potterham"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef16"
+            },
+            "Name": "Flash Stevenson"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef17"
+            },
+            "Name": "Clark Kentman"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef18"
+            },
+            "Name": "Cynthia Capobianco"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef19"
+            },
+            "Name": "Narendra Modi"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef20"
+            },
+            "Name": "Rahul Gandhi"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef21"
+            },
+            "Name": "Manish Modi"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef22"
+            },
+            "Name": "Neha Dhupia"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef23"
+            },
+            "Name": "Cynthia Capobianco"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef24"
+            },
+            "Name": "Ashish Singh"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef25"
+            },
+            "Name": "Ben Stuart"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef26"
+            },
+            "Name": "Mario Ruiz"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef27"
+            },
+            "Name": "Integration User"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef28"
+            },
+            "Name": "Security User"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef29"
+            },
+            "Name": "Rahul Dahiya"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef30"
+            },
+            "Name": "Nikitasha Namdev"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef31"
+            },
+            "Name": "Ashish Singh"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef32"
+            },
+            "Name": "Platform Integration User"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef33"
+            },
+            "Name": "Chatter Expert"
+        },
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef34"
+            },
+            "Name": "Chatter User"
+        }
+    ]
+}
